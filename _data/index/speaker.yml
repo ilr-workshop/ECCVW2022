@@ -1,0 +1,29 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+#
+
+- name: Minsu Cho
+  i18n: Minsu Cho
+  img: /static/assets/img/landing/chominsu.jpg
+  desc: Associate Professor of CSE & AI, POSTECH
+  title: 
+  abstract: 
+  bio: 
+
+- name: Vicente Ordonez
+  i18n: Vicente Ordonez
+  img: /static/assets/img/landing/vicente-2021-small.jpeg
+  desc: Associate Professor of Computer Science, Rice University
+  title: 
+  abstract: 
+  bio: 
+
+
+- name: Mathilde Caron
+  i18n: Mathilde Caron
+  img: /static/assets/img/landing/Mathilde_Caron.jpeg
+  desc: PhD student at INRIA Grenoble and FAIR Paris
+  title: 
+  abstract: 
+  bio: 

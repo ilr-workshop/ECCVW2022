@@ -1,0 +1,134 @@
+# schedules section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Welcome Remarks 
+  desc:
+    detail: Andre Araujo
+    video: https://www.youtube.com/watch?v=Xj1-ilWIPic&ab_channel=HanGuangxing
+    slides: https://github.com/ilr-workshop/ICCVW2021/tree/master/static/assets/slides/Welcome_remarks.pdf
+    host: 
+  date:
+    detail: Oct 11, 13:00 - 13:15 EDT 
+  icon: fa-microphone
+
+- name:
+    detail: "Landmark Challenges: New Fairer Dataset"
+  desc:
+    detail: Zu Kim, Google Research
+    video: https://www.youtube.com/watch?v=5eLzRZzrMDo&ab_channel=HanGuangxing
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/New_Fairer_Dataset.pdf
+    host: 
+  date:
+    detail: Oct 11, 13:15 - 13:30 EDT 
+  icon: fa-microphone 
+
+- name:
+    detail: "Landmark Recognition Challenge: Overview"
+  desc:
+    detail: Cam Askew, Bingyi Cao, Tobias Weyand
+    video: https://www.youtube.com/watch?v=ZikYyeXskjg&ab_channel=HanGuangxing
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/Recognition_intro.pdf
+    host:
+  date:
+    detail: Oct 11, 13:30 - 13:40 EDT 
+  icon: fa-microphone 
+
+- name:
+    detail: "Landmark Recognition Challenge: Winner Presentations"
+  desc:
+    detail: 
+    video: https://www.youtube.com/watch?v=93KbkTqsdfI&ab_channel=HanGuangxing
+    slides: 
+    host: Bohyung Han
+  date:
+    detail: Oct 11, 13:40 - 14:00 EDT 
+  icon: fa-microphone 
+
+
+- name:
+    detail: Invited Talk 1 
+  desc:
+    detail: Prof. Laura Leal-Taixé, Technical University of Munich
+    title: Learning Intra-Batch Connections for Deep Metric Learning
+    video: https://www.youtube.com/watch?v=JEkAnPCsU58&ab_channel=HanGuangxing
+    host: Torsten Sattler
+  date:
+    detail: Oct 11, 14:00 - 14:45 EDT 
+  icon: fa-microphone 
+
+- name:
+    detail: "Landmark Retrieval Challenge: Overview"
+  desc:
+    detail: Cam Askew, Bingyi Cao, Tobias Weyand
+    video: https://www.youtube.com/watch?v=tJQyUuq301U&ab_channel=HanGuangxing
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/Retrieval_intro.pdf
+    host:
+  date:
+    detail: Oct 11, 14:45 - 14:55 EDT 
+  icon: fa-microphone 
+
+- name:
+    detail: "Landmark Retrieval Challenge: Winner Presentations"
+  desc:
+    detail: 
+    video: https://www.youtube.com/watch?v=bkT2Judxf_s&ab_channel=HanGuangxing
+    slides: 
+    host: Bohyung Han
+  date:
+    detail: Oct 11, 14:55 - 15:15 EDT 
+  icon: fa-microphone 
+
+- name:
+    detail: Break
+  desc:
+    detail: 
+    video: 
+    host: 
+  date:
+    detail: Oct 11, 15:15 - 16:00 EDT
+  icon: 
+
+- name:
+    detail: "Interactive Product Retrieval: Overview and Presentations"
+  desc:
+    detail: Xu Zhang and team
+    video: https://www.youtube.com/watch?v=SKG16H-1_mQ&ab_channel=HanGuangxing
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/Product%20Retrieval.pdf
+    host:
+  date:
+    detail: Oct 11, 16:00 - 16:30 EDT 
+  icon: fa-microphone 
+
+- name:
+    detail: "Artwork Recognition: Overview and Presentations"
+  desc:
+    detail: Nikolaos Ypsilantis
+    video: https://www.youtube.com/watch?v=w1vmdB-lB78&t=45s&ab_channel=HanGuangxing
+    slides: https://github.com/ilr-workshop/ICCVW2021/blob/master/static/assets/slides/The_MET_Dataset.pdf
+    host:
+  date:
+    detail: Oct 11, 16:30 - 17:00 EDT 
+  icon: fa-microphone 
+
+- name:
+    detail: Invited Talk 2
+  desc:
+    detail: Dr. Rong Jin, Alibaba
+    title: Improving Instance Classification by Representation Learning
+    video: https://www.youtube.com/watch?v=34Tarhhp1W4&ab_channel=HanGuangxing
+    host: Jack Sim
+  date:
+    detail: Oct 11, 17:00 - 17:45 EDT 
+  icon: fa-microphone 
+
+- name:
+    detail: Closing Remarks  
+  desc:
+    detail: Andre Araujo
+    video: https://www.youtube.com/watch?v=bOlQGbLdW6E&ab_channel=HanGuangxing
+    slides: https://github.com/ilr-workshop/ICCVW2021/tree/master/static/assets/slides/Closing_remarks.pdf
+    host:
+  date:
+    detail: Oct 11, 17:45 - 18:00 EDT 
+  icon: fa-microphone 
+
