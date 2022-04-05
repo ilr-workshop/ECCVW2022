@@ -13,7 +13,7 @@
 
 - name: Vicente Ordonez
   i18n: Vicente Ordonez
-  img: /static/assets/img/landing/vicente-2021-small.jpeg
+  img: /static/assets/img/landing/vicente-2021-small.jpg
   desc: Associate Professor of Computer Science, Rice University
   title: 
   abstract: 
@@ -22,7 +22,7 @@
 
 - name: Mathilde Caron
   i18n: Mathilde Caron
-  img: /static/assets/img/landing/Mathilde_Caron.jpeg
+  img: /static/assets/img/landing/Mathilde_Caron.jpg
   desc: PhD student at INRIA Grenoble and FAIR Paris
   title: 
   abstract: 
