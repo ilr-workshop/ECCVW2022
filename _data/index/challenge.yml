@@ -5,7 +5,7 @@
 - name: Universal Embedding Challenge
   i18n: UEC
   img: /static/assets/img/landing/landmark_recognition.png
-  desc: Large-scale evaluation of universal embedding models. The data comprises imagery from several domains, e.g., landmarks, artworks, cars, furniture, apparel, toys, storefronts, and etc.
+  desc: Large-scale evaluation of universal embedding models. The data comprises imagery from several domains, e.g., landmarks, artworks, cars, furniture, apparel, toys, storefronts.
   # url: https://kaggle.com/c/landmark-recognition-2021
 
 - name: Language Assisted Product Retrieval Challenge
