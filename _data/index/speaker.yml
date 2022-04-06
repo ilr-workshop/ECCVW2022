@@ -4,6 +4,7 @@
 #
 
 - name: Minsu Cho
+  url: https://scholar.google.com/citations?user=5TyoF5QAAAAJ&hl=en
   i18n: Minsu Cho
   img: /static/assets/img/landing/chominsu.jpg
   desc: Associate Professor of CSE & AI, POSTECH
@@ -12,6 +13,7 @@
   bio: 
 
 - name: Vicente Ordonez
+  url: https://scholar.google.com/citations?user=TtA_j4YAAAAJ&hl=en
   i18n: Vicente Ordonez
   img: /static/assets/img/landing/vicente-2021-small.jpg
   desc: Associate Professor of Computer Science, Rice University
@@ -20,6 +22,7 @@
   bio: 
 
 - name: Mathilde Caron
+  url: https://scholar.google.com/citations?user=eiB0s-kAAAAJ&hl=fr
   i18n: Mathilde Caron
   img: /static/assets/img/landing/Mathilde_Caron.jpg
   desc: Research Scientist at Google Research
