@@ -6,7 +6,7 @@
   i18n: UEC
   img: /static/assets/img/landing/landmark_recognition.png
   desc: Large-scale evaluation of universal embedding models. The data comprises imagery from several domains, e.g., landmarks, artworks, cars, furniture, apparel, toys and storefronts.
-  # url: https://kaggle.com/c/landmark-recognition-2021
+  url: https://www.kaggle.com/competitions/google-universal-image-embedding
 
 - name: Language Assisted Product Retrieval Challenge
   i18n: LAPRC
