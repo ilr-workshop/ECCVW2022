@@ -2,7 +2,7 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Universal Embedding Challenge
+- name: Universal Image Embedding Challenge
   i18n: UEC
   img: /static/assets/img/landing/landmark_recognition.png
   desc: Large-scale evaluation of universal embedding models. The data comprises imagery from several domains, e.g., landmarks, artworks, cars, furniture, apparel, toys and storefronts.
