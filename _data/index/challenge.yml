@@ -12,7 +12,7 @@
   i18n: LAPRC
   img: /static/assets/img/landing/product_retrieval.png
   desc: Multi-modal product recognition using a product image and user textual feedback to find the product instance fulfilling the user’s request.
-  # url: https://kaggle.com/c/landmark-recognition-2021
+  url: https://eval.ai/web/challenges/challenge-page/1845/overview
 
 # - name: Landmark Recognition
 #   i18n: Landmark_Recognition
