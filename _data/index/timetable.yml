@@ -10,3 +10,25 @@
   date:
     detail: Oct. 24th, 9:00am-9:10am (GMT+3)
   icon: fa-microphone
+
+- name: 
+    detail: Keynote talk
+  desc:
+    detail: Vicente Ordonez, Rice University
+    video: 
+    slides: 
+    host: Tobias Weyand
+  date:
+    detail: Oct. 24th, 9:10am-9:40am (GMT+3)
+  icon: fa-microphone 
+
+- name:
+    detail: "Universal Embedding Challenge: Overview and Presentations"
+  desc:
+    detail: Bingyi Cao
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Oct. 24th, 9:40am-10:10am (GMT+3)
+  icon: fa-microphone 
