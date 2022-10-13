@@ -90,13 +90,12 @@
 - name:
     detail: Invited paper talk - "What to Hide from Your Students: Attention-Guided Masked Image Modeling"
   desc:
-    detail: Ioannis Kakogeorgiou, Spyros Gidaris, Bill Psomas, Yannis Avrithis, et al.
+    detail: Ioannis Kakogeorgiou, Spyros Gidaris, Bill Psomas, Yannis Avrithis, Andrei Bursuc, Konstantinos Karantzalos and Nikos Komodakis
     video: 
-    slides: 
     host: Torsten Sattler
   date:
     detail: Oct. 24th, 11:50am-12:00pm (GMT+3)
-  icon: fa-microphone 
+  icon: fa-microphone
 
 - name:
     detail: Keynote talk
