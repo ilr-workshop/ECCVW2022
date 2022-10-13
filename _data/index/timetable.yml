@@ -65,3 +65,14 @@
   date:
     detail: Oct. 24th, 11:10am-11:30am (GMT+3)
   icon: fa-microphone 
+
+- name:
+    detail: Invited paper talk - "Granularity-aware Adaptation for Image Retrieval over Multiple Tasks"
+  desc:
+    detail: Jon Almazan, Byungsoo Ko, Geonmo Gu, Diane Larlus and Yannis Kalantidis
+    video: 
+    slides: 
+    host: Torsten Sattler
+  date:
+    detail: Oct. 24th, 11:30am-11:40am (GMT+3)
+  icon: fa-microphone 
