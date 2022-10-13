@@ -93,7 +93,29 @@
     detail: Ioannis Kakogeorgiou, Spyros Gidaris, Bill Psomas, Yannis Avrithis, Andrei Bursuc, Konstantinos Karantzalos and Nikos Komodakis
     video: 
     slides: 
-    host:  Torsten Sattler
+    host: Torsten Sattler
   date:
     detail: Oct. 24th, 11:50am-12:00pm (GMT+3)
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote talk
+  desc:
+    detail: Mathilde Caron, Google Research
+    title: 
+    video: 
+    host: Giorgos Tolias
+  date:
+    detail: Oct. 24th, 12:00pm-12:30pm (GMT+3) 
+  icon: fa-microphone 
+
+- name:
+    detail: Closing Remarks  
+  desc:
+    detail: Andre Araujo
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Oct. 24th, 12:30pm-12:35pm (GMT+3) 
   icon: fa-microphone 
