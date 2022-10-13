@@ -23,7 +23,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Universal Embedding Challenge: Overview and Presentations
+    detail: "Universal Embedding Challenge: Overview and Presentations"
   desc:
     detail: Bingyi Cao
     video: 
@@ -58,7 +58,7 @@
   icon: 
 
 - name:
-    detail: Language Assisted Product Search: Overview
+    detail: "Language Assisted Product Search: Overview"
   desc:
     detail: Xu Zhang
     video: 
@@ -69,7 +69,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Invited paper talk: “Granularity-aware Adaptation for Image Retrieval over Multiple Tasks”
+    detail: Invited paper talk: "Granularity-aware Adaptation for Image Retrieval over Multiple Tasks"
   desc:
     detail: Jon Almazan, Byungsoo Ko, Geonmo Gu, Diane Larlus and Yannis Kalantidis
     video: 
@@ -80,7 +80,7 @@
   icon: fa-microphone 
 
 - name:
-    detail: Invited paper talk: “Where in the World is this Image? Transformer-based Geo-localization in the Wild” 
+    detail: Invited paper talk: "Where in the World is this Image? Transformer-based Geo-localization in the Wild"
   desc:
     detail: Shraman Pramanick, Ewa Nowara, Joshua Gleason, Carlos Castillo and Rama Chellappa
     video: 
@@ -90,7 +90,7 @@
   icon: fa-microphone
 
 - name:
-    detail: Invited paper talk: “What to Hide from Your Students: Attention-Guided Masked Image Modeling”
+    detail: Invited paper talk: "What to Hide from Your Students: Attention-Guided Masked Image Modeling"
   desc:
     detail: Ioannis Kakogeorgiou, Spyros Gidaris, Bill Psomas, Yannis Avrithis, Andrei Bursuc, Konstantinos Karantzalos and Nikos Komodakis
     video: 
