@@ -32,3 +32,37 @@
   date:
     detail: Oct. 24th, 9:40am-10:10am (GMT+3)
   icon: fa-microphone 
+
+- name:
+    detail: Keynote talk
+  desc:
+    detail: Minsu Cho, POSTECH
+    video: 
+    slides: 
+    host: Bohyung Han
+  date:
+    detail: Oct. 24th, 10:10am-10:40am (GMT+3)
+  icon: fa-microphone 
+
+
+- name:
+    detail: Break 
+  desc:
+    detail: 
+    title: 
+    video: 
+    host: 
+  date:
+    detail: Oct. 24th, 10:40am-11:10am (GMT+3)
+  icon: 
+
+- name:
+    detail: "Language Assisted Product Search: Overview"
+  desc:
+    detail: Xu Zhang
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Oct. 24th, 11:10am-11:30am (GMT+3)
+  icon: fa-microphone 
