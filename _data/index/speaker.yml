@@ -9,7 +9,7 @@
   img: /static/assets/img/landing/chominsu.jpg
   desc: Associate Professor of CSE & AI, POSTECH
   title: Few-Shot Learning for Object-Aware Visual Recognition
-  abstract: Few-shot learning has been actively studied for visual recognition tasks such as image classification and semantic segmentation. Existing methods, however, are limited in understanding diverse levels of visual cues and analyzing fine-grained correspondence relations between the query and the support images. This prevents few-shot learning from generalizing to and evaluating on more realistic cases in the wild. In this talk, I will introduce our recent work for object-aware few-shot learning that tackles the challenge by leveraging multi-level feature correlations and high-order convolution/self-attention. I will also present an integrative few-shot learning framework that combines two conventional few-shot learning problems, few-shot classification and segmentation, and generalizes them to more realistic episodes with arbitrary image pairs, where each target class may or may not be present in the query. In experiments, the proposed method shows promising performance on the joint problem of classification and segmentation and also achieves the state of the art on standard few-shot segmentation benchmarks.
+  abstract: 
   bio: 
 
 - name: Vicente Ordonez
