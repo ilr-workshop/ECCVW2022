@@ -17,8 +17,8 @@
   i18n: Vicente Ordonez
   img: /static/assets/img/landing/vicente-2021-small.jpg
   desc: Associate Professor of Computer Science, Rice University
-  title:  
-  abstract:
+  title: "Searching for Images: Granularity, Compositionality, Interpretability, and Multimodality"
+  abstract: "Visual representation learning has made great progress in recent years. We can reuse models that can map images to a common semantic space with a high degree of accuracy, however, using these representations for searching images among large collections is not enough. When users search for images in their personal image collections, on an e-commerce site, or on the web, they generally search with very different intentions. I will outline here some desirable properties of retrieval models and outline some of our work in instance-level image retrieval with Reranking Transformers (RRTs) (https://arxiv.org/abs/2103.12236), iterative and interpretable retrieval using a Drill-down approach (https://arxiv.org/abs/1911.03826), and our more recent work on multilingual and multimodal learning (https://aclanthology.org/2020.findings-emnlp.328, https://arxiv.org/abs/2206.15462)."
   bio: 
 
 - name: Mathilde Caron
