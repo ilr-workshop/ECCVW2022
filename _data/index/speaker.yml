@@ -8,7 +8,7 @@
   i18n: Minsu Cho
   img: /static/assets/img/landing/chominsu.jpg
   desc: Associate Professor of CSE & AI, POSTECH
-  title: Few-Shot Learning for Object-Aware Visual Recognition
+  title: Few-Shot Learning for Object-Aware 
   abstract:
   bio: 
 
@@ -17,7 +17,7 @@
   i18n: Vicente Ordonez
   img: /static/assets/img/landing/vicente-2021-small.jpg
   desc: Associate Professor of Computer Science, Rice University
-  title: Searching for Images: Granularity, Compositionality, Interpretability, and Multimodality
+  title: Searching for Images: Granularity, 
   abstract:
   bio: 
 
@@ -26,6 +26,6 @@
   i18n: Mathilde Caron
   img: /static/assets/img/landing/Mathilde_Caron.jpg
   desc: Research Scientist at Google Research
-  title: Instance-level recognition for self-supervised learning, and vice versa
+  title: Instance-level recognition for 
   abstract:
   bio: 
